@@ -1,0 +1,59 @@
+[
+  {
+    "id": "main",
+    "components": [
+      "section"
+    ]
+  },
+  {
+    "id": "section",
+    "components": [
+      "button",
+      "cards",
+      "carousel",
+      "columns",
+      "contentfragment",
+      "dm-asset",
+      "dm-template",
+      "fragment",
+      "hero",
+      "image",
+      "teaser",
+      "text",
+      "title",
+      "video",
+      "separator"
+    ]
+  },
+  {
+    "id": "cards",
+    "components": [
+      "card"
+    ]
+  },
+  {
+    "id": "carousel",
+    "components": [
+      "card"
+    ]
+  },
+  {
+    "id": "columns",
+    "components": [
+      "column"
+    ]
+  },
+  {
+    "id": "column",
+    "components": [
+      "button",
+      "dm-asset",
+      "dm-template",
+      "image",
+      "text",      
+      "title",
+      "video",
+      "separator"
+    ]
+  }
+]
